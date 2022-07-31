@@ -1,7 +1,5 @@
-<br>
 <p align="center"><b>Hey there!</b> Welcome to my profile 👋🏻</p>
-<br>
-<img align="right" width=145 src="./res/me.jpeg">
+<img align="right" width=150 src="./res/me.jpeg">
 
 ```python
 class Lord_Friky:
