@@ -4,7 +4,7 @@
 ```python
 class Lord_Friky:
     name = "Daniel Hernández Muñoz"
-    age = 20
+    age = 21
     occupation = "Student"
     preferred_langs = ["Python", "C++"]
     hobbies = ["Console Hacking", "Traveling", "Basketball"]
