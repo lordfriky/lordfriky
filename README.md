@@ -5,9 +5,9 @@
 class Lord_Friky:
     name = "Daniel Hernández Muñoz"
     age = 21
-    occupation = "Student"
+    occupation = Student()
     preferred_langs = ["Python", "C++"]
-    hobbies = ["Console Hacking", "Traveling", "Basketball"]
+    hobbies = ["Console Modding", "Traveling", "Basketball"]
 ```
 <br>
 
@@ -16,15 +16,24 @@ class Lord_Friky:
 ## More about me
 - 🇲🇽 Mexican
 - 💬 Bilingual (english, spanish)
-- 🤓 CS student @ [UdeG CUCEI 🦁](http://www.cucei.udg.mx)
+- 🤓 Computer Engineering student @ [UdeG CUCEI 🦁](http://www.cucei.udg.mx)
 - 💻 Founder of [Club de Programación CUCEI](https://programacion-cucei.club)
 - 🐛 Aiming to become a security researcher
 - 🎈 Interested in competitive programming
-- 📝 Ex-News writer of [PlayStationHaX](https://playstationhax.xyz/)
+- 📝 Ex-news writer of [PlayStationHaX](https://playstationhax.xyz/)
 - 🦑 Splatoon fan
 - 📖 Currently reading [Competitive Programmer's Handbook](https://github.com/pllk/cphb) by [Antti Laaksonen](https://github.com/pllk)
 
-## Certifications
+## Languages I'm familiar with
+![Python](https://img.shields.io/badge/-Python-306998?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-grey?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/-C++-1A437E?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+
+
+
+## Technologies/Frameworks I've used
+
+## Relevant courses I've taken 
 - [AZ-900 Microsoft Azure Fundamentals](https://portal.certiport.com/Portal/Pages/CredentialVerification.aspx) (ID: wasr5-Fa4F) by [Microsoft](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900)
 - [Robótica Aplicada Nivel Avanzado (applied robotics)](http://lordfriky.github.io/repo/certs/robotica_aract.pdf) by [ARACT UNAM](https://roboticamexicana.org)
 
