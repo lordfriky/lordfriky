@@ -11,7 +11,7 @@ class Lord_Friky:
 ```
 <br>
 
-<p align="center"><img alt="Lord Friky's GitHub Stats" height=130 src="https://github-readme-stats.vercel.app/api?username=lordfriky&show_icons=true&theme=nord"><img alt="Most Used Languages" height=130 src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordfriky&layout=compact&theme=nord"></p>
+<p align="center"><img alt="Lord Friky's GitHub Stats" height=130 src="https://githubstats-eight-virid.vercel.app /api?username=lordfriky&show_icons=true&theme=nord"><img alt="Most Used Languages" height=130 src="https://githubstats-eight-virid.vercel.app /api/top-langs/?username=lordfriky&layout=compact&theme=nord"></p>
 
 ## More about me
 - 🇲🇽 Mexican
